@@ -9,7 +9,7 @@
 
 //********** Variables ************************************************************
  int pin;          // donar nom al pin 5 de l’Arduino
- int wait = 1000;         // assignem valor a l'espera
+ int wait = 1000;    // assignem valor a l'espera
 //********** Setup ****************************************************************
 void setup()
 {
